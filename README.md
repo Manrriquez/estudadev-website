@@ -1,14 +1,9 @@
-# Wordpress Starter Theme
+# Wordpress Website Manrriquez
 
 The perfect Wordpress starter theme for me.
 Lightweight, with SCSS+SMACSS/ES6/Gulp/Bootstrap (or Foundation).
 
-Extra features:
-
-* Some usefull includes, like a good pagination.php for Wordpress.
-* Some functions in functions.php, like thumbnails support and words excerpt limitation.
-
-Nothing more. Just the indissential (contraction of essential and indispensable).
+thing more. Just the indissential (contraction of essential and indispensable).
 
 ## Installation
 
